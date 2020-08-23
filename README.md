@@ -1,8 +1,11 @@
 # examples_dialog
 
-A new Flutter project.
+An example with different type alertdialogs
+
+[<img src="https://img.youtube.com/vi/dprms0P0rQ0/maxresdefault.jpg" width="50%">](https://youtu.be/dprms0P0rQ0)
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
